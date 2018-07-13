@@ -1,4 +1,4 @@
-# leetcode
+# leetcode in C
 This repo stores solutions(using C language) of Leetcode's interesting questions I have solved (my current progress is 112/856). 
 I solve all this on my own, and therefore the solutions is neither the most concise nor the most efficient.
 (I am not a good programmer!)
