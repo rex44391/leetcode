@@ -5,4 +5,4 @@ I solve all this on my own, and therefore the solutions is not the most concise 
 The only purpose of this repo is to help myself better preparing the code interview.
 But I would be more than happy, if this can do some help in your leetcode journey.
 
-In the future, I will add some note for this solutions, if I have time!
+In the future, I will add some notes for this solutions, if I have time!
