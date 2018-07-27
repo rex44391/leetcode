@@ -1,9 +1,9 @@
 /*
 * although it pass the test, this algorithm is slow, 
-* because it need to search to tail every time(time complexity is O(n!))!
+* because it need to search to tail every time(time complexity is O(n^2))!
 * but I think I can improve its efficiency by using an array 
-* which stores all pointer of pointer to each node.
-* Please check reorder1 for the improved one.
+* which stores all pointers to each node.
+* Please check reorder1 for the improved version.
 */
 
 void reorderList(struct ListNode* head) {
