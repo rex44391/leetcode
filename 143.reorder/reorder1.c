@@ -1,7 +1,7 @@
-/* In this version, I use an array to record all pointer
-* and therefore, I don't need to get the tail by searching all the list everytime
+/* In this version, I use an array to write down all pointers of the list
+* and therefore, I don't need to get to the tail by searching all the list everytime
 * although the space complexity goes up to O(n)
-* the improvement of time complexity is significant(from O(n!) to O(n)),
+* the improvement of time complexity is significant(from O(n^2) to O(n)),
 * It beats 100% of other submissions(the last version is the slowest!)
 * shortening the execution time from 686 ms to 8ms!!! 
 */
