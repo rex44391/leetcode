@@ -3,7 +3,7 @@
 * although the space complexity goes up to O(n)
 * the improvement of time complexity is significant(from O(n!) to O(n)),
 * It beats 100% of other submissions(the last version is the slowest!)
-* improving the execution time from 686 ms to 8ms!!! 
+* shortening the execution time from 686 ms to 8ms!!! 
 */
 
 void reorderList(struct ListNode* head) {
