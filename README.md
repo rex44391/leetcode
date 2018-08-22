@@ -1,5 +1,5 @@
 # leetcode in C
-This repo stores solutions(using C language) of Leetcode's interesting questions I have solved (my current progress is 156/873). 
+This repo stores solutions(using C language) of Leetcode's interesting questions I have solved (my current progress is 232/885). 
 I solve all this on my own, and therefore the solutions is neither the most concise nor the most efficient.
 (I am not a good programmer!)
 
