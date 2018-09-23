@@ -2,7 +2,7 @@
 * This one is easy. I use straight-forward algorithm and beats 100% of other submissions
 * However, implementing the algo is very annoying, 
 * since you need to deal with the conversion
-* between string and number on your own
+* between string and integer on your own
 */
 
 void parse(char *input, int *real, int *imag) {
